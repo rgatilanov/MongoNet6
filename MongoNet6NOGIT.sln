@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoNet6NOGIT", "MongoNet6NOGIT\MongoNet6NOGIT.csproj", "{74FCCD8B-D50B-480C-ADE7-4A356E19D737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FCCD8B-D50B-480C-ADE7-4A356E19D737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FCCD8B-D50B-480C-ADE7-4A356E19D737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FCCD8B-D50B-480C-ADE7-4A356E19D737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FCCD8B-D50B-480C-ADE7-4A356E19D737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D440D3D3-A2A0-4604-882C-694B3DEB2EE0}
+	EndGlobalSection
+EndGlobal
